@@ -1,0 +1,8 @@
+{
+    "json.schemas": [
+    
+    ],
+    "python.analysis.extraPaths": [
+        "./PY2_OOC/sibB"
+    ]
+}
